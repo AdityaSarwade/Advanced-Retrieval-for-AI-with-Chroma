@@ -22,12 +22,16 @@ PS: Some lesson folders contain gradio implementation for a better user experien
 
 ## Lessons
 
-1. Overview of embeddings-based retrieval
-2. Pitfalls of retrieval
-3. Query Expansion
-4. Cross Encoder Reranking
-5. Embedding Adaptors
-6. Other Techniques
+1. [Overview of embeddings-based retrieval](./Overview%20of%20embeddings-based%20retrieval/) \
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XyftsaJNHVapTI75j96sqUBXODV7__bB?usp=sharing)
+2. [Pitfalls of retrieval](./Pitfalls%20of%20retrieval/) \
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kdT-BcqIR5weJf74oaUIaIYPYLfSp0vh?usp=sharing)
+3. [Query Expansion](./Query%20Expansion/) \
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RsJ9kUtr0v4O8qsoLZi6pv9c8RUTFUec?usp=sharing)
+4. [Cross Encoder Reranking](./Cross%20Encoder%20Reranking/) \
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17hoXftJT5ipUm2HLJ5soeRSZUG2R9-kP?usp=sharing)
+5. [Embedding Adaptors](./Embedding%20Adaptors/) \
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zH3t9F8zlFYnyeQoinCCC5S4_2tHxvMY?usp=sharing)
 
 ## Acknowledgments
 
