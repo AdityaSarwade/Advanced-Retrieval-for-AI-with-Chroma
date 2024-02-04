@@ -18,6 +18,7 @@ PS: Some lesson folders contain gradio implementation for a better user experien
 ## Usage
 
 - Execute the notebooks to understand and experiment with the concepts covered in the course.
+- Ensure all files are present in the same directory level or runtime as the notebook
 - Refer to the Chroma DB documentation for guidance on utilizing it as a vector database.
 
 ## Lessons
