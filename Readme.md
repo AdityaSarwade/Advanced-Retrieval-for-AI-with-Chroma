@@ -33,6 +33,10 @@ PS: Some lesson folders contain gradio implementation for a better user experien
 5. [Embedding Adaptors](./Embedding%20Adaptors/) \
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zH3t9F8zlFYnyeQoinCCC5S4_2tHxvMY?usp=sharing)
 
+## Notes
+
+[![Lesson Notes](https://img.shields.io/badge/Lesson%20Notes-Link%20to%20Google%20docs-blue?style=plastic)](https://docs.google.com/document/d/1PF2aF0wM3AGpoBiOnyqJ-09hU3GO2j0s4i-S_R0c17c/edit?usp=sharing)
+
 ## Acknowledgments
 
 - [deeplearning.ai](https://www.deeplearning.ai/) for providing the "Advanced Retrieval for AI with Chroma" course.
