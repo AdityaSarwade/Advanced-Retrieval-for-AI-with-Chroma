@@ -1,0 +1,9 @@
+langchain==0.1.4
+chromadb==0.4.22
+pypdf==4.0.1
+tqdm==4.66.1
+sentence-transformers==2.3.1
+gradio==4.16.0
+transformers==4.35.2
+bitsandbytes==0.42.0
+accelerate==0.26.1
